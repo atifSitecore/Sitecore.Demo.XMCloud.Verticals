@@ -39,14 +39,14 @@ Languages:
     Fields:
     - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
       Hint: Title
-      Value: Planifiez aujourd'hui, prospérez demain
+      Value: Il n'y a qu'une seule maison parfaite. La vôtre.
     - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
       Hint: Link
       Value: |
-        <link text="Sécurisez votre avenir" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{524F5CD2-4FB9-437D-B733-CF5861B8CED3}" />
+        <link text="Details" linktype="external" url="http://www.sitecore.com" anchor="" target="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e4f4b3da-25b5-40ad-8aad-cb9547339a48"
+      Value: "fe2adc65-d600-4668-b4fd-8252de9f040c"
     - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
       Hint: Text
-      Value: <p>Prenez soin de votre patrimoine, prenez soin de votre famille.</p>
+      Value: "Prêt hypothécaire de PLAY! Finance."

@@ -1,0 +1,18 @@
+﻿---
+ID: "1628f535-0f3c-4208-93bb-1f8d7a1a8f88"
+Parent: "6981966f-ce96-43ab-8e8d-c15a14f17914"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: /sitecore/content/Verticals/Financial/Home/business/Data/Carousel 1/Item 1
+BranchID: "ce40209e-3961-4d15-871f-d959ef53797e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4eaac5f-97ec-4b9b-b69c-6c348a9f7aa4"
